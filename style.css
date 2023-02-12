@@ -25,7 +25,8 @@ text-decoration: none;
 } 
 
 li a:hover { 	
-background-color: #111; 
+background-color: white; 
+color: #010e80
 } 
 
 h2 a { 	
